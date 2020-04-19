@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/MyFluingNetz/static/js/main.dd52a9d6.chunk.js",
+    "main.js.map": "/MyFluingNetz/static/js/main.dd52a9d6.chunk.js.map",
+    "runtime-main.js": "/MyFluingNetz/static/js/runtime-main.fe8ac0c9.js",
+    "runtime-main.js.map": "/MyFluingNetz/static/js/runtime-main.fe8ac0c9.js.map",
+    "static/js/2.49d7bce3.chunk.js": "/MyFluingNetz/static/js/2.49d7bce3.chunk.js",
+    "static/js/2.49d7bce3.chunk.js.map": "/MyFluingNetz/static/js/2.49d7bce3.chunk.js.map",
+    "index.html": "/MyFluingNetz/index.html",
+    "precache-manifest.0cf4473d6821db72de0103a8a67ebd2d.js": "/MyFluingNetz/precache-manifest.0cf4473d6821db72de0103a8a67ebd2d.js",
+    "service-worker.js": "/MyFluingNetz/service-worker.js",
+    "static/js/2.49d7bce3.chunk.js.LICENSE.txt": "/MyFluingNetz/static/js/2.49d7bce3.chunk.js.LICENSE.txt",
+    "static/media/novipazar.jpg": "/MyFluingNetz/static/media/novipazar.3f7ae4b2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe8ac0c9.js",
+    "static/js/2.49d7bce3.chunk.js",
+    "static/js/main.dd52a9d6.chunk.js"
+  ]
+}
